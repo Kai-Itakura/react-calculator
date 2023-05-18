@@ -5,7 +5,7 @@ export const onNumberClick = (number) => ({
   number,
 })
 
-export const onPulsClick = () => ({
+export const onPlusClick = () => ({
   type: PLUS,
 })
 
